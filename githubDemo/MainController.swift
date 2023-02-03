@@ -12,6 +12,7 @@ class MainController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello World")
+        print("start change commit")
     }
 
 
